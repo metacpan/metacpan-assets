@@ -1,0 +1,4 @@
+metacpan-assets
+===============
+
+Logos etc.
